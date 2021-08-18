@@ -20,6 +20,8 @@
 
 /* Begin PBXFileReference section */
 		A85B12BF26CCC39C00F416AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A85B12C026CCCDAE00F416AA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A85B12C126CCCDED00F416AA /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		A8C4C2B126CB10B80084A46E /* FlatCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlatCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8C4C2B426CB10B80084A46E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8C4C2B626CB10B80084A46E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,6 +49,8 @@
 		A8C4C2A826CB10B80084A46E = {
 			isa = PBXGroup;
 			children = (
+				A85B12C126CCCDED00F416AA /* LICENSE */,
+				A85B12C026CCCDAE00F416AA /* .gitignore */,
 				A85B12BF26CCC39C00F416AA /* README.md */,
 				A8C4C2B326CB10B80084A46E /* FlatCalculator */,
 				A8C4C2B226CB10B80084A46E /* Products */,
